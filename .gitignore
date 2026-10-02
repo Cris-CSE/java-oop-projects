@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+out/
+bin/
+build/
+target/
+
+# Files generated when running the programs
+melate_numbers.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+.jdeveloper/
+*.jws
+*.jpr
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
